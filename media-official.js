@@ -20,7 +20,7 @@ window.FOOTPRINT_MEDIA = [
     "bytes": 143450,
     "imageFormat": "JPEG",
     "sha256": "4948620ec7aef0834fc97d9251971df919c3ee1a49488d96fa20f120fb1fbcc6",
-    "rights": "图片版权归原作者或权利人所有；未标注为开放许可。",
+    "rights": "图片版权归原作者或权利人所有。",
     "changes": "保留来源图片原始文件及完整画面，页面仅等比缩放显示，未裁剪、改色或添加文字。",
     "checkedAt": "2026-11-02"
   },
@@ -45,7 +45,7 @@ window.FOOTPRINT_MEDIA = [
     "bytes": 989368,
     "imageFormat": "PNG",
     "sha256": "a1288ebdd75b62d56956fe9f42c709758990a578240cffe2ffd83997765cf769",
-    "rights": "图片版权归原作者或权利人所有；未标注为开放许可。",
+    "rights": "图片版权归原作者或权利人所有。",
     "changes": "保留来源图片原始文件及完整画面，页面仅等比缩放显示，未裁剪、改色或添加文字。",
     "checkedAt": "2026-11-02"
   },
@@ -70,7 +70,7 @@ window.FOOTPRINT_MEDIA = [
     "bytes": 91170,
     "imageFormat": "JPEG",
     "sha256": "f706250ee687e9ff9e29854fd4e8bece40b9ca5bdaa9a7065ec9b3b28498935b",
-    "rights": "图片版权归原作者或权利人所有；未标注为开放许可。",
+    "rights": "图片版权归原作者或权利人所有。",
     "changes": "保留来源图片原始文件及完整画面，页面仅等比缩放显示，未裁剪、改色或添加文字。",
     "checkedAt": "2026-11-02"
   },
@@ -95,7 +95,7 @@ window.FOOTPRINT_MEDIA = [
     "bytes": 1233844,
     "imageFormat": "PNG",
     "sha256": "eaa4e9181dd93e5b46f9c8cfe37866a00eba4100ccb117f1250efc65a52664ce",
-    "rights": "图片版权归原作者或权利人所有；未标注为开放许可。",
+    "rights": "图片版权归原作者或权利人所有。",
     "changes": "保留来源图片原始文件及完整画面，页面仅等比缩放显示，未裁剪、改色或添加文字。",
     "checkedAt": "2026-11-02"
   }
