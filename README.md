@@ -59,6 +59,6 @@ https://cloud.tencent.com/document/product/436/36638
 
 ## 当前状态
 
-这是可上传的发布包，打包本身不会自动创建GitHub或国内云网站。新分享链接以目标平台实际发布成功后返回的地址为准。原ChatGPT托管链接保持原状。
+GitHub Pages 已启用，公开访问地址为 https://caitingkun.github.io/zhejiang-footprints-atlas/ 。首页与本地含声明的定稿一致，页首、页尾及收录说明弹窗均保留本站声明。国内不同网络的可访问性仍需由访问者实际测试；原 ChatGPT 托管链接保持原状。
 
 整理日期：2026-11-02
