@@ -1,6 +1,6 @@
-# 浙江足迹文献地图：公开网页
+# 浙江足迹：公开网页
 
-**在线访问：[浙江足迹文献地图](https://caitingkun.github.io/zhejiang-footprints-atlas/)**
+**在线访问：[浙江足迹](https://caitingkun.github.io/zhejiang-footprints-atlas/)**
 
 ## 本站声明
 
